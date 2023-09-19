@@ -1,0 +1,81 @@
+@media (max-width:576px){
+    .header-title{
+        text-align: center;
+    }
+    .header-title h1{
+font-size: 24px;
+    }
+    .header-title h2{
+        font-size: 25px;
+    }
+    .header-title p{
+    font-size: 14px;
+    }
+    body button{
+        width: 100%;
+    }
+    .section-first-description{
+        padding: 50px 0;
+    }
+    .section-first-description p{
+        font-size: 11px;
+    }
+    .section-first-description h1{
+        font-size: 23px;
+    }
+    .section-second h1{
+        font-size: 30px;
+    }
+    }
+
+@media (min-width:576px) and (max-width:768px){
+    .section-first-description{
+        padding: 50px 0;
+    }
+    .section-first-description h1{
+        font-size: 33px;
+    }
+        .header-title{
+            text-align: center;
+        }
+        .header-title h1{
+        font-size: 32px;
+        }
+        .header-title h2{
+            font-size: 35px;
+        }
+        .header-title p{
+        font-size: 17px;
+        }
+        body button{
+            width: 100%;
+        }
+        .section-second h1{
+            font-size: 33px;
+        }
+}
+@media (min-width:768px) and (max-width:992px){
+    .section-first-description{
+        padding: 50px 0;
+    }
+    .section-first-description h1{
+        font-size: 38px;
+    }
+        
+        .header-title h1{
+        font-size: 36px;
+        }
+        .header-title h2{
+            font-size: 46px;
+        }
+        .header-title p{
+        font-size: 17px;
+        }
+        
+        .section-second h1{
+            font-size: 39px;
+        }
+        .section-first-img{
+            padding-top: 70px;
+        }
+}
